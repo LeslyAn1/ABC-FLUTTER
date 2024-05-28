@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034860115167",
+    "project_id": "visitasmuseosmx",
+    "storage_bucket": "visitasmuseosmx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034860115167:android:e2aca6f95747cd20f2656a",
+        "android_client_info": {
+          "package_name": "com.lesly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7UWdBDVnJeq_2cPl1nvggpa-G1Y5QMjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
